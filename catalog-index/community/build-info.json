@@ -1,6 +1,6 @@
 {
-  "source-repo": "https://github.com/gabemontero/rhdh-plugin-export-overlays/tree/main @ 7e30b8eb",
-  "build-date": "2026-08-12T19:47:24Z",
+  "source-repo": "https://github.com/gabemontero/rhdh-plugin-export-overlays/tree/main @ 960112b0",
+  "build-date": "2026-08-17T21:51:16Z",
   "backstage-version": "1.52.0",
   "rhdh-version": "2.0"
 }
