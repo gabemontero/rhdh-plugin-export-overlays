@@ -18,7 +18,7 @@ metadata:
 spec:
   packageName: "@backstage/plugin-catalog-backend-module-msgraph"
   # Tag: bs_1.52.0__0.10.3
-  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-catalog-backend-module-msgraph@sha256:c9705a3f6cbdc3c0e297cd9a648541b260593fd97eb97115b7881e8b9ad55973"
+  dynamicArtifact: "oci://ghcr.io/redhat-developer/rhdh-plugin-export-overlays/backstage-plugin-catalog-backend-module-msgraph@sha256:892f9686ba39bcdb339220556ee460d1b3b07125ee7169b2402c082bdb8bbdce"
   version: 0.10.3
   backstage:
     role: backend-plugin-module
